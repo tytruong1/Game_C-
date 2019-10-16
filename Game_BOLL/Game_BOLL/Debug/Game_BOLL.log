@@ -1,0 +1,30 @@
+﻿Build started 10/16/2019 8:46:32 PM.
+     1>Project "D:\DATA\Tất Cả Dữ Liệu\Game_BOLL\Game_BOLL\Game_BOLL.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\DataSystem\VisualStudio_2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt boll.cpp game.cpp Console.cpp main.cpp Tuong.cpp VatThe.cpp welcome.cpp
+         welcome.cpp
+     1>d:\data\tất cả dữ liệu\game_boll\game_boll\welcome.cpp(34): warning C4554: '|' : check operator precedence for possible error; use parentheses to clarify precedence
+     1>d:\data\tất cả dữ liệu\game_boll\game_boll\welcome.cpp(50): warning C4554: '|' : check operator precedence for possible error; use parentheses to clarify precedence
+     1>d:\data\tất cả dữ liệu\game_boll\game_boll\welcome.cpp(129): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         VatThe.cpp
+         Tuong.cpp
+         main.cpp
+         Console.cpp
+         game.cpp
+     1>d:\data\tất cả dữ liệu\game_boll\game_boll\game.cpp(7): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         boll.cpp
+         Generating Code...
+       Link:
+         D:\DataSystem\VisualStudio_2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\DATA\Tất Cả Dữ Liệu\Game_BOLL\Debug\Game_BOLL.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\DATA\Tất Cả Dữ Liệu\Game_BOLL\Debug\Game_BOLL.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\DATA\Tất Cả Dữ Liệu\Game_BOLL\Debug\Game_BOLL.lib" /MACHINE:X86 Debug\boll.obj
+         Debug\game.obj
+         Debug\Console.obj
+         Debug\main.obj
+         Debug\Tuong.obj
+         Debug\VatThe.obj
+         Debug\welcome.obj
+         Game_BOLL.vcxproj -> D:\DATA\Tất Cả Dữ Liệu\Game_BOLL\Debug\Game_BOLL.exe
+     1>Done Building Project "D:\DATA\Tất Cả Dữ Liệu\Game_BOLL\Game_BOLL\Game_BOLL.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.41
